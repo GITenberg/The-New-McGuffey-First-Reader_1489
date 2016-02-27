@@ -1,0 +1,23 @@
+_repo: The-New-McGuffey-First-Reader_1489
+creator:
+  author:
+    agent_name: McGuffey, William Holmes
+    birthdate: 1800
+    deathdate: 1873
+    gutenberg_agent_id: '5671'
+    url: http://www.gutenberg.org/2009/agents/5671
+    wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
+description: Second reader (1901).
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: The New McGuffey First Reader
+url: http://www.gutenberg.org/ebooks/1489
