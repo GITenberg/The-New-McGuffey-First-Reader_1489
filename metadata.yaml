@@ -1,5 +1,8 @@
 _repo: The-New-McGuffey-First-Reader_1489
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McGuffey, William Holmes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5671
     wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
 description: Second reader (1901).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1489#The-New-McGuffey-First-Reader
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:
